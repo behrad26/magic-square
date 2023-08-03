@@ -4,14 +4,7 @@
 
 -----
 
-
-<div align="center">
-  <h4>
-    This is a program in python to check if the 2D list is a magic square or not
-  </h4>
-  <br>
-  A magic square is a square of numbers in such a way that sum of horizontal lines, vertical lines, and oblique lines are equal to eachother.
-</div>
+<div align="center">A magic square is a square of numbers in such a way that sum of horizontal lines, vertical lines, and oblique lines are equal to eachother.</div>
 <br>
 
 <div align="center">
